@@ -1,3 +1,8 @@
+### outdated
+### for testing only
+### no warranty
+---------------------------
+
 ## WIP
 
 https://hello-knative-test.srvless.ga/
